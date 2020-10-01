@@ -8,7 +8,7 @@ I got this code from https://github.com/JetBrains/kotlin-native/tree/master/samp
 
 ## Shared
 
-Common Kotlin module contains arithmetic expressions parser.
+Common Kotlin module contains arithmetic expressions parser. https://github.com/Foso/KmmCalc/blob/master/shared/src/commonMain/kotlin/de/jensklingenberg/kmmcalc2/shared/Parser.kt
 
 ## iOS
 The iOS project compiles Kotlin module to a framework (see [iosApp](iosApp/)). The framework can be easily included in an existing iOS project (e.g. written in Swift or Objective-C)
